@@ -13,6 +13,8 @@
   translation: ", "
 - id: readMore
   translation: "Read More"
+- id: readAlso
+  translation: "Related Posts"  
 - id: olderPosts
   translation: "Older Posts"
 - id: newerPosts
@@ -37,7 +39,7 @@
 
   # Footer
 - id: poweredBy # Accepts HTML
-  translation: 'Powered by <a href="https://gohugo.io">Hugo</a> & <a href="https://github.com/binokochumolvarghese/lightbi-hugo">Lightbi.</a>&nbsp; Made with ❤ by <a href="https://binovarghese.com">Bino</a>'
+  translation: 'Powered by <a href="https://gohugo.io">Hugo</a> & <a href="https://github.com/binokochumolvarghese/lightbi-hugo">Lightbi.</a>&nbsp;'
 
 # Navigation
 - id: toggleNavigation
